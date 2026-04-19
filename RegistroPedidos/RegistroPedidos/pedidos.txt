@@ -1,0 +1,3 @@
+Juan Lopez Perez,mouse logitec,$3000
+Angel David  Lopez Fabian,fundas para laptop,$500
+Angeles Fabian,computadora lenovo,$20000

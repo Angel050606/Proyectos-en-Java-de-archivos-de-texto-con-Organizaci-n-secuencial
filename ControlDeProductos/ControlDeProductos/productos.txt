@@ -1,0 +1,4 @@
+13123,carne,54.0,2
+1923,Mouse Logitec g502,535.0,10
+8093,Cargador Lenovo 65w,1235.0,19
+73672,Funda para Laptop,235.0,10

@@ -1,0 +1,3 @@
+Angel David López Fabian,Taller de Base de Datos,90
+Axel Tadeo Vasquez López,AyODD,90
+Rafael Garcia Sierra,Sistemas Operativos,70
